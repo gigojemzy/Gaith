@@ -1,0 +1,134 @@
+0,Art and Music,/Users/fayyaz/Desktop/Articles/Topic1/Art and Music (1).txt
+1,Art and Music,/Users/fayyaz/Desktop/Articles/Topic2/Art and Music (2).txt
+2,Art and Music,/Users/fayyaz/Desktop/Articles/Topic3/Art and Music (3).txt
+3,Art and Music,/Users/fayyaz/Desktop/Articles/Topic4/Art and Music (4).txt
+4,Art and Music,/Users/fayyaz/Desktop/Articles/Topic5/Art and Music (5).txt
+5,Art and Music,/Users/fayyaz/Desktop/Articles/Topic6/Art and Music (6).txt
+6,Art and Music,/Users/fayyaz/Desktop/Articles/Topic7/Art and Music (7).txt
+7,art and music,/Users/fayyaz/Desktop/Articles/Topic8/art and music (8).txt
+8,art and music,/Users/fayyaz/Desktop/Articles/Topic9/art and music (9).txt
+9,Art and Music,/Users/fayyaz/Desktop/Articles/Topic10/Art and Music (10).txt
+10,education,/Users/fayyaz/Desktop/Articles/Topic11/education (1).txt
+11,education,/Users/fayyaz/Desktop/Articles/Topic12/education (2).txt
+12,education,/Users/fayyaz/Desktop/Articles/Topic13/education (3).txt
+13,education,/Users/fayyaz/Desktop/Articles/Topic14/education (4).txt
+14,education,/Users/fayyaz/Desktop/Articles/Topic15/education (5).txt
+15,education,/Users/fayyaz/Desktop/Articles/Topic16/education (6).txt
+16,education,/Users/fayyaz/Desktop/Articles/Topic17/education (7).txt
+17,environment,/Users/fayyaz/Desktop/Articles/Topic19/environment (3).txt
+18,environment,/Users/fayyaz/Desktop/Articles/Topic20/environment (4).txt
+19,environment,/Users/fayyaz/Desktop/Articles/Topic21/environment (5).txt
+20,environment,/Users/fayyaz/Desktop/Articles/Topic22/environment (6).txt
+21,environment,/Users/fayyaz/Desktop/Articles/Topic23/environment (7).txt
+22,environment,/Users/fayyaz/Desktop/Articles/Topic25/environment (9).txt
+23,environment,/Users/fayyaz/Desktop/Articles/Topic26/environment (10).txt
+24,environment,/Users/fayyaz/Desktop/Articles/Topic27/environment (11).txt
+25,environment,/Users/fayyaz/Desktop/Articles/Topic28/environment (12).txt
+26,environment,/Users/fayyaz/Desktop/Articles/Topic29/environment (13).txt
+27,environment,/Users/fayyaz/Desktop/Articles/Topic30/environment (14).txt
+28,environment,/Users/fayyaz/Desktop/Articles/Topic31/environment (15).txt
+29,environment,/Users/fayyaz/Desktop/Articles/Topic32/environment (16).txt
+30,environment,/Users/fayyaz/Desktop/Articles/Topic33/environment (17).txt
+31,environment,/Users/fayyaz/Desktop/Articles/Topic34/environment (18).txt
+32,environment,/Users/fayyaz/Desktop/Articles/Topic35/environment (19).txt
+33,environment,/Users/fayyaz/Desktop/Articles/Topic36/environment (20).txt
+34,environment,/Users/fayyaz/Desktop/Articles/Topic37/environment (21).txt
+35,environment,/Users/fayyaz/Desktop/Articles/Topic38/environment (22).txt
+36,environment,/Users/fayyaz/Desktop/Articles/Topic39/environment (23).txt
+37,environment,/Users/fayyaz/Desktop/Articles/Topic40/environment (24).txt
+38,environment,/Users/fayyaz/Desktop/Articles/Topic41/environment (25).txt
+39,environment,/Users/fayyaz/Desktop/Articles/Topic42/environment (26).txt
+40,environment,/Users/fayyaz/Desktop/Articles/Topic43/environment (27).txt
+41,environment,/Users/fayyaz/Desktop/Articles/Topic44/environment (28).txt
+42,environment,/Users/fayyaz/Desktop/Articles/Topic45/environment (29).txt
+43,environment,/Users/fayyaz/Desktop/Articles/Topic46/environment (30).txt
+44,environment,/Users/fayyaz/Desktop/Articles/Topic47/environment (31).txt
+45,environment,/Users/fayyaz/Desktop/Articles/Topic48/environment (32).txt
+46,environment,/Users/fayyaz/Desktop/Articles/Topic49/environment (33).txt
+47,finance,/Users/fayyaz/Desktop/Articles/Topic51/finance (1).txt
+48,finance,/Users/fayyaz/Desktop/Articles/Topic52/finance (2).txt
+49,finance,/Users/fayyaz/Desktop/Articles/Topic53/finance (3).txt
+50,finance,/Users/fayyaz/Desktop/Articles/Topic54/finance (4).txt
+51,finance,/Users/fayyaz/Desktop/Articles/Topic55/finance (5).txt
+52,finance,/Users/fayyaz/Desktop/Articles/Topic56/finance (6).txt
+53,finance,/Users/fayyaz/Desktop/Articles/Topic57/finance (7).txt
+54,finance,/Users/fayyaz/Desktop/Articles/Topic58/finance (8).txt
+55,finance,/Users/fayyaz/Desktop/Articles/Topic59/finance (9).txt
+56,finance,/Users/fayyaz/Desktop/Articles/Topic60/finance (10).txt
+57,finance,/Users/fayyaz/Desktop/Articles/Topic61/finance (11).txt
+58,finance,/Users/fayyaz/Desktop/Articles/Topic62/finance (12).txt
+59,finance,/Users/fayyaz/Desktop/Articles/Topic63/finance (13).txt
+60,finance,/Users/fayyaz/Desktop/Articles/Topic64/finance (14).txt
+61,finance,/Users/fayyaz/Desktop/Articles/Topic67/finance (17).txt
+62,health,/Users/fayyaz/Desktop/Articles/Topic68/health (1).txt
+63,health,/Users/fayyaz/Desktop/Articles/Topic70/health (3).txt
+64,health,/Users/fayyaz/Desktop/Articles/Topic71/health (4).txt
+65,health,/Users/fayyaz/Desktop/Articles/Topic72/health (5).txt
+66,health,/Users/fayyaz/Desktop/Articles/Topic73/health (6).txt
+67,health,/Users/fayyaz/Desktop/Articles/Topic74/health (7).txt
+68,health,/Users/fayyaz/Desktop/Articles/Topic75/health (8).txt
+69,health,/Users/fayyaz/Desktop/Articles/Topic79/health (12).txt
+70,health,/Users/fayyaz/Desktop/Articles/Topic80/health (13).txt
+71,health,/Users/fayyaz/Desktop/Articles/Topic81/health (14).txt
+72,health,/Users/fayyaz/Desktop/Articles/Topic82/health (15).txt
+73,health,/Users/fayyaz/Desktop/Articles/Topic83/health (16).txt
+74,health,/Users/fayyaz/Desktop/Articles/Topic84/health (17).txt
+75,politics,/Users/fayyaz/Desktop/Articles/Topic85/politics (1).txt
+76,politics,/Users/fayyaz/Desktop/Articles/Topic86/politics (21).txt
+77,politics,/Users/fayyaz/Desktop/Articles/Topic87/politics (3).txt
+78,politics,/Users/fayyaz/Desktop/Articles/Topic88/politics (4).txt
+79,politics,/Users/fayyaz/Desktop/Articles/Topic89/politics (5).txt
+80,politics,/Users/fayyaz/Desktop/Articles/Topic90/politics (6).txt
+81,politics,/Users/fayyaz/Desktop/Articles/Topic91/politics (7).txt
+82,politics,/Users/fayyaz/Desktop/Articles/Topic92/politics (8).txt
+83,politics,/Users/fayyaz/Desktop/Articles/Topic93/politics (9).txt
+84,politics,/Users/fayyaz/Desktop/Articles/Topic94/politics (10).txt
+85,politics,/Users/fayyaz/Desktop/Articles/Topic95/politics (11).txt
+86,politics,/Users/fayyaz/Desktop/Articles/Topic96/politics (12).txt
+87,politics,/Users/fayyaz/Desktop/Articles/Topic97/politics (13).txt
+88,politics,/Users/fayyaz/Desktop/Articles/Topic98/politics (14).txt
+89,politics,/Users/fayyaz/Desktop/Articles/Topic99/politics (15).txt
+90,politics,/Users/fayyaz/Desktop/Articles/Topic103/politics (19).txt
+91,politics,/Users/fayyaz/Desktop/Articles/Topic104/politics (2).txt
+92,politics,/Users/fayyaz/Desktop/Articles/Topic105/politics (20).txt
+93,religion,/Users/fayyaz/Desktop/Articles/Topic106/religion (1).txt
+94,religion,/Users/fayyaz/Desktop/Articles/Topic107/religion (2).txt
+95,religion,/Users/fayyaz/Desktop/Articles/Topic108/religion (3).txt
+96,religion,/Users/fayyaz/Desktop/Articles/Topic109/religion (4).txt
+97,religion,/Users/fayyaz/Desktop/Articles/Topic110/religion (5).txt
+98,religion,/Users/fayyaz/Desktop/Articles/Topic111/religion (6).txt
+99,religion,/Users/fayyaz/Desktop/Articles/Topic112/religion (7).txt
+100,religion,/Users/fayyaz/Desktop/Articles/Topic113/religion (8).txt
+101,Science and Technology,/Users/fayyaz/Desktop/Articles/Topic114/Science and Technology (1).txt
+102,Science and Technology,/Users/fayyaz/Desktop/Articles/Topic115/Science and Technology (2).txt
+103,Science and Technology,/Users/fayyaz/Desktop/Articles/Topic116/Science and Technology (3).txt
+104,Science and Technology,/Users/fayyaz/Desktop/Articles/Topic117/Science and Technology (4).txt
+105,Science and Technology,/Users/fayyaz/Desktop/Articles/Topic118/Science and Technology (5).txt
+106,Science and Technology,/Users/fayyaz/Desktop/Articles/Topic119/Science and Technology (6).txt
+107,Science and Technology,/Users/fayyaz/Desktop/Articles/Topic120/Science and Technology (7).txt
+108,Science and Technology,/Users/fayyaz/Desktop/Articles/Topic124/Science and Technology (11).txt
+109,Science and Technology,/Users/fayyaz/Desktop/Articles/Topic125/Science and Technology (12).txt
+110,Science and Technology,/Users/fayyaz/Desktop/Articles/Topic126/Science and Technology (13).txt
+111,Science and Technology,/Users/fayyaz/Desktop/Articles/Topic127/Science and Technology (14).txt
+112,Science and Technology,/Users/fayyaz/Desktop/Articles/Topic128/Science and Technology (15).txt
+113,Science and Technology,/Users/fayyaz/Desktop/Articles/Topic129/Science and Technology (16).txt
+114,sport,/Users/fayyaz/Desktop/Articles/Topic131/sport (2).txt
+115,sport,/Users/fayyaz/Desktop/Articles/Topic132/sport (3).txt
+116,sport,/Users/fayyaz/Desktop/Articles/Topic133/sport (4).txt
+117,sport,/Users/fayyaz/Desktop/Articles/Topic134/sport (5).txt
+118,sport,/Users/fayyaz/Desktop/Articles/Topic135/sport (6).txt
+119,sport,/Users/fayyaz/Desktop/Articles/Topic139/sport (10).txt
+120,tourisms,/Users/fayyaz/Desktop/Articles/Topic140/tourisms (1).txt
+121,tourisms,/Users/fayyaz/Desktop/Articles/Topic141/tourisms (2).txt
+122,tourisms,/Users/fayyaz/Desktop/Articles/Topic142/tourisms (3).txt
+123,tourisms,/Users/fayyaz/Desktop/Articles/Topic143/tourisms (4).txt
+124,tourisms,/Users/fayyaz/Desktop/Articles/Topic144/tourisms (5).txt
+125,tourisms,/Users/fayyaz/Desktop/Articles/Topic145/tourisms (6).txt
+126,tourisms,/Users/fayyaz/Desktop/Articles/Topic146/tourisms (7).txt
+127,tourisms,/Users/fayyaz/Desktop/Articles/Topic147/tourisms (8).txt
+128,tourisms,/Users/fayyaz/Desktop/Articles/Topic148/tourisms (9).txt
+129,tourisms,/Users/fayyaz/Desktop/Articles/Topic149/tourisms (10).txt
+130,tourisms,/Users/fayyaz/Desktop/Articles/Topic150/tourisms (11).txt
+131,tourisms,/Users/fayyaz/Desktop/Articles/Topic151/tourisms (12).txt
+132,tourisms,/Users/fayyaz/Desktop/Articles/Topic152/tourisms (13).txt
+133,tourisms,/Users/fayyaz/Desktop/Articles/Topic153/tourisms (14).txt
