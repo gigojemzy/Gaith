@@ -61,7 +61,11 @@ public class QueryHandler {
 		try {
 			return Wikipedia.getWikipedia().query(term);
 		} catch (Exception e) {
+<<<<<<< HEAD
 			Logger.getLogger().log("damn error", LOG_TYPES.ERROR);
+=======
+			Logger.getLogger().log("TEEEEEEEEEEEEEEEEET", LOG_TYPES.ERROR);
+>>>>>>> 902f12565af5a2fcefe42c5e5adb6d818f00dbf7
 		}
 		return ConstantHandler.NULL_HASH;
 	}
