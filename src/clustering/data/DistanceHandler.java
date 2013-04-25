@@ -49,6 +49,15 @@ public class DistanceHandler {
 			ECDis += Math.pow(conceptWeight1 - conceptWeight2, 2);
 		}
 
+		for (Integer conceptNumber : point2.keySet()) {
+			conceptWeight2 = point2.get(conceptNumber);
+			conceptWeight1 = 0;
+			if (point1.containsKey(conceptNumber))
+				continue;
+			ECDis += Math.pow(conceptWeight1 - conceptWeight2, 2);
+		}
+		
+		
 		ECDis = Math.sqrt(ECDis);
 		return ECDis;
 	}

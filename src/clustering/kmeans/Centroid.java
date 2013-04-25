@@ -40,5 +40,9 @@ public class Centroid {
 	public void clear() {
 		points.clear();
 	}
+	
+	public String toString(){
+		return ""+this.centroidID;
+	}
 
 }

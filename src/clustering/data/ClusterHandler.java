@@ -40,6 +40,7 @@ public class ClusterHandler {
 
 		if (clusteringInterface != null) {
 			clusteringInterface.cluster();
+			clusteringInterface._Clusters();
 			clusteringInterface.printClusters();
 			return clusteringInterface._Clusters();
 		} else {
