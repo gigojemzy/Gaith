@@ -26,6 +26,7 @@ public class Corpus {
 	private HashMap<String, Integer> corpusMapper;
 	private StandardAnalyzer analyzer = new StandardAnalyzer(Version.LUCENE_41);
 	private IndexReader reader;
+	private String [] docName;
 
 	private Corpus() throws Exception {
 		// TODO Auto-generated constructor stub
@@ -38,9 +39,11 @@ public class Corpus {
 		BufferedReader in = new BufferedReader(new FileReader(
 				ConstantHandler.CORPUS_MAPPER_INIT));
 		corpusMapper = new HashMap<String, Integer>();
+		docName = new String[ConstantHandler.CORPUS_SIZE];
 		for (int i = 0; i < ConstantHandler.CORPUS_SIZE; i++) {
 			String[] def = in.readLine().split(",");
 			corpusMapper.put(def[2], Integer.parseInt(def[0]));
+			docName[Integer.parseInt(def[0])] = def[2].split("/")[5];
 		}
 		in.close();
 	}
@@ -70,4 +73,8 @@ public class Corpus {
 		return ret;
 	}
 
+	public String docName(int id) {
+		return docName[id];
+	}
+	
 }

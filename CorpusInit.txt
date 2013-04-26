@@ -5,8 +5,8 @@
 4,Art and Music,/Users/fayyaz/Desktop/Articles/Topic5/Art and Music (5).txt
 5,Art and Music,/Users/fayyaz/Desktop/Articles/Topic6/Art and Music (6).txt
 6,Art and Music,/Users/fayyaz/Desktop/Articles/Topic7/Art and Music (7).txt
-7,art and music,/Users/fayyaz/Desktop/Articles/Topic8/art and music (8).txt
-8,art and music,/Users/fayyaz/Desktop/Articles/Topic9/art and music (9).txt
+7,Art and music,/Users/fayyaz/Desktop/Articles/Topic8/art and music (8).txt
+8,Art and music,/Users/fayyaz/Desktop/Articles/Topic9/art and music (9).txt
 9,Art and Music,/Users/fayyaz/Desktop/Articles/Topic10/Art and Music (10).txt
 10,education,/Users/fayyaz/Desktop/Articles/Topic11/education (1).txt
 11,education,/Users/fayyaz/Desktop/Articles/Topic12/education (2).txt

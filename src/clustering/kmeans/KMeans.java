@@ -47,7 +47,7 @@ public class KMeans implements ClusteringInterface {
 		Random random = new Random(System.nanoTime());
 		int id = 0;
 		while (++id <= numberOfCentroids) {
-			int randomID = random.nextInt();
+			int randomID = random.nextInt(134);
 			while (documentMap.get(randomID) == null)
 				randomID = random.nextInt();
 			Centroid randomCentroid = new Centroid(id, documentMap
@@ -94,14 +94,15 @@ public class KMeans implements ClusteringInterface {
 	}
 
 	private void _DO() {
-		boolean finish = true;
+		boolean finish = false;
 		int iteration = 0;
 		while (++iteration <= maxIterations && !finish) {
 			_Clear_Centroids();
 			finish = true;
 			for (int point : documentMap.keySet()) {
 				int nearstCentroid = getNearstCentroid(point);
-				if (pointCentroidMap.get(point) != nearstCentroid) {
+				if (pointCentroidMap.get(point) == null
+						|| pointCentroidMap.get(point).intValue() != nearstCentroid) {
 					pointCentroidMap.put(point, nearstCentroid);
 					centroidMap.get(nearstCentroid).addPoint(point);
 					finish = false;
@@ -126,6 +127,7 @@ public class KMeans implements ClusteringInterface {
 
 	@Override
 	public Vector<Cluster> _Clusters() {
+		System.out.println("ya far7t 2hly biya :)");
 		int id = 0;
 		while (++id <= numberOfCentroids) {
 			clustersMap.put(id, new Cluster(id));

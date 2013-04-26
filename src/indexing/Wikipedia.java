@@ -24,6 +24,7 @@ public class Wikipedia {
 
 	private static Wikipedia wiki;
 	private static HashMap<String, Integer> wikiMapper;
+	private String [] conceptName;
 	private StandardAnalyzer analyzer = new StandardAnalyzer(Version.LUCENE_41);
 	private IndexReader reader;
 
@@ -38,9 +39,11 @@ public class Wikipedia {
 		BufferedReader in = new BufferedReader(new FileReader(
 				ConstantHandler.WIKI_MAPPER_INIT));
 		wikiMapper = new HashMap<String, Integer>();
+		conceptName = new String[ConstantHandler.WIKIPEDIA_SIZE];
 		for (int i = 0; i < ConstantHandler.WIKIPEDIA_SIZE; i++) {
 			String[] def = in.readLine().split(" ");
 			wikiMapper.put(def[2], Integer.parseInt(def[0]));
+			conceptName[Integer.parseInt(def[0])] = def[1];
 		}
 		in.close();
 	}
@@ -72,5 +75,9 @@ public class Wikipedia {
 
 	}
 
-
+	public String getConceptName(int id){
+		return conceptName[id];
+	}
+	
+	
 }
