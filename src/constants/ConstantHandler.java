@@ -11,7 +11,7 @@ public class ConstantHandler {
 	public static final String WIKI_MAPPER_INIT = "WikiInit.txt";
 	public static final String WIKI_INDEX = "./index";
 	// Indexing Corpus
-	public static final int INDEX_CORPUS_LIMIT = 5;
+	public static final int INDEX_CORPUS_LIMIT = 25;
 	public static final int CORPUS_SIZE = 134;
 	public static final String CORPUS_MAPPER_INIT = "CorpusInit.txt";
 	public static final String CORPUS_INDEX = "./corpusIndex";
@@ -42,8 +42,8 @@ public class ConstantHandler {
 	public static final int NUMBEROFCONCEPTS = 0;
 	public static final int NUMBEROFCENTROIDS = 0;
 	public static final int MAXITERATIONS = 0;
-	public static final double EPSLION = 0.0;
-	public static final int MINPOINTS = 0;
+	public static final double EPSLION = 1.0;
+	public static final int MINPOINTS = 5;
 	public static final double F = 0.0;
 	public static final double K = 0.0;
 	public static final double ESA_MAX_SCORE = 1.0;

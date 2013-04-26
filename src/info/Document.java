@@ -32,5 +32,10 @@ public class Document {
 	public void setTFIDF(Map<String, Double> tfidf) {
 		this.tfidf = tfidf;
 	}
+	
+	public void setTermTfidf(String term, double t) {
+		if(this.tfidf==null)this.tfidf=new HashMap<String, Double>();
+		this.tfidf.put(term, t);
+	}
 
 }
