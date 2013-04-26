@@ -9,10 +9,6 @@ public class Cluster {
 	private Map<Integer, Double> representative;
 	private Vector<Integer> points;
 
-	/*
-	 * Just Test
-	 */
-
 	public Cluster(int clusterID) {
 		this.clusterID = clusterID;
 		this.representative = new HashMap<Integer, Double>();
